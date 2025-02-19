@@ -81,7 +81,7 @@ DELETE FROM usuarios WHERE id = 1;
 ```
 
 > [!TIP]
-> **A própria _IDE_ do PostGreSQL fornece suporte para essas manipulações sem precisar utilizar linha de comando. Use o que achar melhor 😉.**
+> **A própria _IDE_ do PostGreSQL, _pgAdmin_, fornece suporte para essas manipulações sem precisar utilizar linha de comando. Use o que achar melhor 😉.**
 
 ---
 
