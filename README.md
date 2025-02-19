@@ -8,7 +8,7 @@
 Um **banco de dados** é uma coleção organizada de dados que pode ser armazenada, gerenciada e acessada de maneira eficiente. Ele permite o armazenamento persistente de informações, garantindo integridade, segurança e rapidez na manipulação de dados.
 
 > [!TIP]
-> **Você pode saber mais sobre os tipos de bancos de dados clicando [_aqui_](#).**
+> **Você pode saber mais sobre os tipos de bancos de dados clicando [_aqui_](useful/TYPES.md).**
 
 O **PostgreSQL** é um dos bancos de dados relacionais mais poderosos e amplamente utilizados no mundo. Ele é **open-source**, altamente extensível e segue os padrões SQL, oferecendo recursos avançados como **transações ACID, suporte a JSON, consultas complexas e replicação**.  
 
